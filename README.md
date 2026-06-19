@@ -1,3 +1,6 @@
+# Hello! Welcome to my Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+
+
 ![Banner](./akshay_kadam_banner.png)
 
 # Akshay Kadam — AWS Data Engineer
@@ -43,8 +46,9 @@
 ## 📫 Let's Connect
 
 - Email: akshaykadam0262@gmail.com
-- LinkedIn: [your URL]
-- GitHub: [your URL]
+- LinkedIn: https://www.linkedin.com/in/akshay-kadam-3a2771215/
+- GitHub: https://github.com/kadamAK0262
+- Bold Pro: https://bold.pro/my/akshay-kadam-251104141212?vsid=1b88c4c4-b142-47c9-bc67-a16e0cf6dcfe
 
 ---
 
